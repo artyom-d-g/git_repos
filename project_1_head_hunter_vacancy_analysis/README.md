@@ -5,6 +5,7 @@ Project 1
 [2. Data](https://github.com/artyom-d-g/git_repos/new/master/project_1_head_hunter_vacancy_analysis/README.md#Data)
 
 #Description  
+
 Initial data preparation for analysis.  
 1. Analysis of data structure
 2. Data transformation
