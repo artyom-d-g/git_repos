@@ -1,10 +1,15 @@
-Skillfactory DSPro course.
-Project 1
+Skillfactory DSPro course.  
+Project 1  
 "Head hunter vacancies analysis"  
 [1. Description](https://github.com/artyom-d-g/git_repos/new/master/project_1_head_hunter_vacancy_analysis/README.md#Description)  
-[1. Data](https://github.com/artyom-d-g/git_repos/new/master/project_1_head_hunter_vacancy_analysis/README.md#Data)
+[2. Data](https://github.com/artyom-d-g/git_repos/new/master/project_1_head_hunter_vacancy_analysis/README.md#Data)
 
 #Description  
+Initial data preparation for analysis.  
+1. Analysis of data structure
+2. Data transformation
+3. Exploratory data analysis
+4. Data cleaning
 
 #Data  
 initial data is here https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing  
