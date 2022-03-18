@@ -1,8 +1,14 @@
 Skillfactory DSPro course.
 Project 1
-"Head hunter vacancies analysis"
-[1. Description](https://github.com/artyom-d-g/git_repos/new/master/project_1_head_hunter_vacancy_analysis/README.md#Description)
+"Head hunter vacancies analysis"  
+[1. Description](https://github.com/artyom-d-g/git_repos/new/master/project_1_head_hunter_vacancy_analysis/README.md#Description)  
+[1. Data](https://github.com/artyom-d-g/git_repos/new/master/project_1_head_hunter_vacancy_analysis/README.md#Data)
+
+#Description  
+
+#Data  
+initial data is here https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing  
+additional file with currency exhanges rate from 29.12.2017 till 05.12.2019 is here https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/ExchangeRates.zip  
 
 
-#Description
 
